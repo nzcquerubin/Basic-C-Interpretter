@@ -1,0 +1,1 @@
+int,x,;,double,y,;,x,=,num,;,if,(,x,<,num,),{,output,<<,x,;,},
